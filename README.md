@@ -1,44 +1,62 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was built with the references form the following links
 
-## Available Scripts
+//React Component TypeScript
+1. https://gist.github.com/myitcv/5aec7ce3c3abbc7eaea981d4be1b7239
+2. https://www.pluralsight.com/guides/how-to-statically-type-react-components-with-typescript
+3. https://codesandbox.io/s/m5prrr48zy
+4. https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html#fetching-external-data-when-props-change
+5. https://www.pluralsight.com/guides/typescript-pass-function-react
 
-In the project directory, you can run:
+// Redux Redux-Sagas
+1. https://medium.com/@resir014/redux-4-typescript-2-9-a-type-safe-approach-7f073917b803
+2. https://github.com/sandeepperkariappdev/react-redux-typescript-example
 
-### `npm start`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+// Error Handling
+1. https://codepen.io/gaearon/pen/wqvxGa?editors=0010
+2. https://reactjs.org/docs/error-boundaries.html
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+// React Router
+1. https://www.pluralsight.com/guides/react-router-typescript
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+//Unit Tests React 
+1. https://medium.com/@tejasupmanyu/setting-up-unit-tests-in-react-typescipt-with-jest-and-enzyme-56634e54703
 
-### `npm run build`
+// React Component
+1. https://reactjs.org/docs/state-and-lifecycle.html
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+// Code Splitting
+1. https://serverless-stack.com/chapters/code-splitting-in-create-react-app.html
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+// React Deployment
+1. https://facebook.github.io/create-react-app/docs/deployment
+2. AWS - S3 - Cloud Front https://medium.com/@wolovim/deploying-create-react-app-to-s3-or-cloudfront-48dae4ce0af
+3. AZURE: https://medium.com/@to_pe/deploying-create-react-app-on-microsoft-azure-c0f6686a4321
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Custom Deployment From Scratch
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+1. https://medium.com/free-code-camp/how-to-set-up-deploy-your-react-app-from-scratch-using-webpack-and-babel-a669891033d4
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+//Typescript
+
+1. https://devhints.io/typescript
+
+//React i18n
+
+1. https://alligator.io/react/i18n-with-react-and-i18next
+2. react-intl https://www.freecodecamp.org/news/setting-up-internationalization-in-react-from-start-to-finish-6cb94a7af725/
+
+
+
+// Accessibilty
+1. https://reactjs.org/docs/accessibility.html
+2. https://developer.mozilla.org/en-US/docs/Web/Accessibility/Keyboard-navigable_JavaScript_widgets
+3. https://www.w3.org/TR/wai-aria-practices-1.1/
+4. 
