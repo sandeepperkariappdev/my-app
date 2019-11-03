@@ -19,11 +19,14 @@ export default class EmailInput extends React.Component<Props, State>{
     
     state= {email: this.props.defaultEmail};
     
-    handleChange = event => {
+    handleChange = (event:any) => {
         this.setState({email:event.target.value});
     }
 
     render(){
-        return();
+        return(<div>
+            <h1>Hii</h1>
+            <button onClick={this.handleChange}></button>
+        </div>);
     }
 }

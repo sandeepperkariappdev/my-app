@@ -1,4 +1,4 @@
-This project was built with the references form the following links
+This project was built with the references from the following links
 
 //React Component TypeScript
 1. https://gist.github.com/myitcv/5aec7ce3c3abbc7eaea981d4be1b7239
